@@ -1,4 +1,4 @@
-# LOCAL GOVERNMENT UNIT - TAGUM  ![](images/Logo1.png)
+# LOCAL GOVERNMENT UNIT - TAGUM   ![](images/Logo1.png)
 
 Drupal
 >Framework used is Drupal is a CMS that uses Symfony as the web app framework
