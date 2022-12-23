@@ -20,11 +20,11 @@ Drupal
 
 
 ## Sub-system
->Generate -Employee Report
->         -Department Report
->         -Leave Report
+>Generate Employee Report, Department Report, Leave Report, Salary Report
+>Employees Management, Department Management, Leave Management, Salary Management, Login Management, System User Management
+>Check User Log in Detail
 
-        
+
 
 
 
