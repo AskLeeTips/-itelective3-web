@@ -1,4 +1,4 @@
-#  LOCAL GOVERNMENT UNIT - TAGUM  ![Alt text](../../Tagum.png)
+#  LOCAL GOVERNMENT UNIT - TAGUM  ![Photo!](C:\Users\johan\OneDrive\Desktop\Tagum.png)
 
 Hello sir i'm still working on this.
 My laptop SSD had issue hence did not attend any assignments, ill finish this before new years.
