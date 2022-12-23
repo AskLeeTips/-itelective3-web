@@ -1,5 +1,5 @@
 #  LOCAL GOVERNMENT UNIT - TAGUM
-##### ![Photo!](https://cmci.dti.gov.ph/img/seals/lgu/Tagum.png)
+##### ![Photo!](C:\Users\johan\OneDrive\Desktop\Tagum)
 
 Hello sir i'm still working on this.
 My laptop SSD had issue hence did not attend any assignments, ill finish this before new years.
