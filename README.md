@@ -1,15 +1,20 @@
 ## LOCAL GOVERNMENT UNIT - TAGUM  ![](images/Logo1.png)
 
-Hello sir i'm still working on this.
-My laptop SSD had issue hence did not attend any assignments, ill finish this before new years.
+Incomplete work*
 
-#### Stack: Drupal
 
-Payroll Management system
+> Business - Friendly and Competitive LGU
+>Environment Protective CLimate Change Adaptive and Disaster Resilient
 
-> The method by which employers pay their employees' salaries using a payroll management system. It's also how they show their commitment to their staff, meet their legal and ethical responsibilities, and maintain accurate financial records.
+## Payroll Management system
 
->Case Diagram ![](images/Logo2.png)
+> The method by which employers pay their employees' salaries using a payroll management system. 
+>It's also how they show their commitment to their staff, meet their legal and ethical responsibilities, and maintain accurate financial records.
+
+
+>Case Diagram 
+
+![](images/Logo2.png)
 
 
 
