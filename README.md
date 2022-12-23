@@ -21,8 +21,8 @@ Drupal
 
 ## Sub-system
 >Generate -Employee Report
-          -Department Report
-          -Leave Report
+>         -Department Report
+>         -Leave Report
 
         
 
