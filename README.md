@@ -9,7 +9,7 @@ Payroll Management system
 
 > The method by which employers pay their employees' salaries using a payroll management system. It's also how they show their commitment to their staff, meet their legal and ethical responsibilities, and maintain accurate financial records.
 
->Case Diagram ![](C:\Users\johan\OneDrive\Desktop\Logo2.png)
+>Case Diagram ![alt text](C:\Users\johan\OneDrive\Desktop\Logo2.png)
 
 
 
